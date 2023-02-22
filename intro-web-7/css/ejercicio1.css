@@ -1,0 +1,17 @@
+h1{ 
+    font-size: 100px;
+    font-family: 'Times New Roman';
+    background-color: rgb(229, 240, 11);
+    color: rgb(238, 101, 32);
+}
+
+button{
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(91, 233, 103);
+    color: rgb(4, 30, 32);
+}
+
+.section{
+    font-family: Arial;
+}

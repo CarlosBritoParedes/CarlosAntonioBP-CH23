@@ -1,0 +1,15 @@
+#dato0{
+    color: rgb(135, 101, 101);
+    font-size: 40px;
+}
+
+.pato{
+    font-family: Times New Roman;
+    text-align-last: right;
+    background-color: rgb(108, 177, 187);
+}
+
+div{
+    height:200px;
+    width: 200px;
+}
