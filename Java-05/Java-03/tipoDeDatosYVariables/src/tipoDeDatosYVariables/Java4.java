@@ -37,6 +37,7 @@ public class Java4 {
 		}
 		
 		
+		
 		//Ejercicio1
 		//Verificar si un número es par y positivo:
 			int num = 6;
