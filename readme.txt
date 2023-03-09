@@ -1,2 +1,2 @@
 Repositorio creado con el fin de subir tareas 
-y actividades de la Cohorte23 en el GitHub.
+y actividades de la Cohorte23 en el GitHub 2.0
