@@ -1,4 +1,4 @@
-package com.cabp.clases;
+package com.vhfc.clases;
 
 public class PersonaP {
 	private String nombre;
@@ -11,8 +11,8 @@ public class PersonaP {
 	}
 	
 	
-	
-	
+
+
 	public String getNombre() {
 		return nombre;
 	}
@@ -30,6 +30,6 @@ public class PersonaP {
 	public String toString() {
 		return "PersonaP [nombre=" + nombre + ", edad=" + edad + "]";
 	}
-
 	
+
 }

@@ -1,10 +1,10 @@
-package com.cabp.clases;
+package com.vhfc.clases;
 
 public class AlumnoB extends PersonaP{
 private int matriculas;
 private double promedio;
 
-public AlumnoB(int matriculas, double promedio, String nombre, int edad) { 
+public AlumnoB(int matriculas, double promedio, String nombre, int edad) {
 	super(nombre, edad);
 	this.matriculas = matriculas;
 	this.promedio = promedio;
@@ -20,19 +20,20 @@ public double getPromedio() {
 }
 public void setPromedio(double promedio) {
 	this.promedio = promedio;
-}	
+}
 @Override
 public String toString() {
 	return "AlumnoB [matriculas=" + matriculas + ", promedio=" + promedio + "]";
 }
-public void mostrarDatos() {
+public void mostarDatos() {
 	System.out.println(this.getNombre()+" "
 +this.getEdad()+" "+this.matriculas+" "+this.promedio);
-	
+
 }
-public void mostrarDatos(String apellido) {
-	System.out.println(this.getNombre()+" " +apellido+ " "
+public void mostarDatos(String apellido) {
+	System.out.println(this.getNombre()+" " +apellido+" "
 +this.getEdad()+" "+this.matriculas+" "+this.promedio);
+
 }
 
 }
